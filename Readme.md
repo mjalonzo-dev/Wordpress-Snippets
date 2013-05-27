@@ -1,3 +1,3 @@
 # Wordpress Snippets
 
- A Collection of Wordpress Code Snippets.
+ A Collection of Wordpress Code Snippets and Docs.
