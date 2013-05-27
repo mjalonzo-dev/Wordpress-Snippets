@@ -3,8 +3,8 @@
 Following is a step by step guide for migrating a Wordpress site from the Lab (lab.wearebully.com) Environment to a Production Environment.
 
 1. Log into Media Temple, or the client's hosting providers Control Panel, and create a new Wordpress install:
-* For Media Temple, there's a "1 Click Application" option that will take care of the WP installation, DB and DB user creation for you.
-* If they're not on Media Temple, then either install Wordpress manually or use the Wordpress installation tools provided by the Host - most Hosts have a Wordpress install feature.
+	* For Media Temple, there's a "1 Click Application" option that will take care of the WP installation, DB and DB user creation for you.
+	* If they're not on Media Temple, then either install Wordpress manually or use the Wordpress installation tools provided by the Host - most Hosts have a Wordpress install feature.
 2. After the install completes, log out then create an archive of the Lab site's entire wp-content folder and download it.
 3. Next, install the [WP Migrate DB plugin](http://wordpress.org/plugins/wp-migrate-db/) into the Lab Site.
 4. After installing and activating the plugin, navigate to Tools > Migrate DB and fill out the required fields. Hit "Export" and save the SQL file.
