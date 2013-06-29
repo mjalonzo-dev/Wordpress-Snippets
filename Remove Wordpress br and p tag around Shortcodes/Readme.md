@@ -5,4 +5,4 @@ Source: [Stellar Web Works](http://sww.co.nz/solution-to-wordpress-adding-br-and
 
 ## Usage
 
-	Simple add the code to your functions.php file.
+	Simply add the code to your functions.php file.
